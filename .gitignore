@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.egg
+
+# Secrets — never commit
+secrets/
+
+# Test artifacts
+backend/test_output.txt
+backend/ollama_output.txt
+backend/calendar_test_output.txt
+backend/llm_calendar_output.txt
+backend/pipeline_test_output.txt
+
+# Node
+frontend/node_modules/
+frontend/.next/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Whisper / Vosk model caches
+*.pt

@@ -1,0 +1,9 @@
+﻿Okay, the user said "Ø³ÙØ§Ù Ø­Ø§ÙØª ÚØ·ÙØ±ÙØ" which translates to "Hello, how are you?" in English. I need to respond in Persian, no English words.
+
+First, I should greet them back. In Persian, common greetings are "Ø³ÙØ§Ù" (salÄm) or "ÚÙ Ø®Ø¨Ø±Ø" (what's up?), but here the user is asking about my state.
+
+The phrase "Ø­Ø§ÙØª ÚØ·ÙØ±ÙØ" means "how are you?" so the response should be a friendly answer. Since I'm an AI, I can say something like "Ø³alam! ÙÙ Ø¨ÙØªØ± ÙØ³ØªÙØ ÚÙ Ø®Ø¨Ø±Û Ø¯Ø§Ø±ÛØ" but wait, the user is asking "how are you", so I need to respond in a way that's natural.
+
+Wait, in Persian, when someone asks "how are you", the response is usually "Ø¨Ø§Ø´Ù" or "Ø®ÙØ¨ ÙØ³ØªÙ". So maybe "Ø³ÙØ§Ù! ÙÙ Ø®ÙØ¨ ÙØ³ØªÙØ ÚÙ Ø®Ø¨Ø±Û Ø¯Ø§Ø±ÛØ" but the user's question is "how are you", so the answer should be a bit more polite.
+
+Wait, the user's message is "Ø³ÙØ§Ù Ø­Ø§ÙØª ÚØ·ÙØ±ÙØ

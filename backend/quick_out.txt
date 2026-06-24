@@ -1,0 +1,2 @@
+LLM ok in 46.0s len=4 text=سلام
+TTS ok in 0.6s bytes=8352

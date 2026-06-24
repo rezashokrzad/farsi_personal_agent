@@ -1,0 +1,20 @@
+content len=860
+thinking len=0
+
+CONTENT:
+Okay, the user greeted me with "سلام، حال شما چطور است؟" which translates to "Hello, how are you?" in English.
+
+I need to respond in Persian only, no English words. The response should be short, natural, and helpful.
+
+In Persian, a common response to "how are you?" is "خوب است، شما چطور؟" but sometimes people might say "ممنون، خیلی خوب هستم. شما چطور؟" but the user wants a short answer.
+
+Wait, the user asked "حال شما چطور است؟" which is "How is your condition?" but in Persian, when someone asks "چطور است؟" it's a polite way to ask "how are you?"
+
+So the standard response in Persian would be "خوب هستم، شما چطور؟" but maybe the user expects a more natural response.
+
+Alternatively, in Persian, you can say "سلام، ممنون، خوب هستم. شما چطور؟" but the user wants it short.
+
+Since the instruction says to be direct and short, maybe just "خوب هستم، شما چطور؟"
+
+THINKING:
+
